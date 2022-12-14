@@ -10,7 +10,8 @@ Dunderly operaions
 ## 3.2 Understanding the requirements
 the first step in architecting a software is to understand the requirements
 > There 2 types of requirements -
->> 1. Functional requirements: These are what the system should do
->> 2. Non functional requirments: These are what the system should deal with.
+ 1. Functional requirements: These are what the system should do
+2. Non functional requirments: These are what the system should deal with.
+
 ## 3.1 Logging
 
