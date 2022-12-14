@@ -14,7 +14,7 @@ the first step in architecting a software is to understand the requirements
 2. Non functional requirments: These are what the system should deal with.
 
 ##  Functional requirement of the dunderly system
- Mostly the functional requirements are specified by the users
+> Mostly the functional requirements are specified by the users
  - Web based
  - Perform CRUD operations on employees
    - 1. Allow manager to ask for employees salary change
