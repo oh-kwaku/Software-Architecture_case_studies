@@ -21,6 +21,17 @@ the first step in architecting a software is to understand the requirements
    - 2. Allow HR manager to approve or reject request
  - Manage vacation days
  - Use external system for payment
+## Non function requirements 
+The first thing to understand about the functional requirement is what we already know about the non functional requirements
+> What we already know
+  > Classic information sysstem. It's just simple and nothing complicated involving too much moving data
+  > Not a lot of users
+  > NOt a lot of data
+  > Interface to external system. (We have to be careful of interfacing with legacy systems; they can be too problematic)
+> Next as what we need to know from the custom
+  > 1. How many concurrent users. (this helps us to know the load requirement of the system)
+  > 2. How many employees. (large number means large data volumes)
+  > 3. What do we know about the external payment system. (What data, how to parse data, how to communicate with the external system)
 
 ## 3.1 Logging
 
